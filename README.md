@@ -10,7 +10,7 @@ OS: Linux (Mint)
 
 ✔️ **Completed:**
  * Webdesigner Course (https://www.ils.de/) - 09/2023
- * 2-Day Agile Workshop (Scrum) - 09/2023
+ * 2-Day Agile Workshop (Scrum methodology) - 09/2023
 <br>
 ⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲⭐🌲<br>
 
