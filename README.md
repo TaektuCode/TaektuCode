@@ -1,6 +1,6 @@
 ### Im Alex 👱 from 🇩🇪 living in the Black Forrest 🌲
 
-📖 I’m currently on a Course for Web Development on [@developer-academy]([https://github.com/Developer-Akademie-GmbH]).
+📖 I’m currently on a Course for Web Development on [@developer-academy](https://github.com/Developer-Akademie-GmbH).
 I'm also a member of the "The Complete Web Developer in 2023: Zero to Mastery" Course [@zero-to-mastery](https://github.com/zero-to-mastery) by [@aneagoie](https://github.com/aneagoie)<br>
 
 OS: Linux (Mint)
